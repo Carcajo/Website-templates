@@ -18,3 +18,7 @@ https://www.figma.com/proto/rQnRp30v8FKu8BeFkAP6nd/Untitled?node-id=1%3A2&scalin
 5)
 https://www.figma.com/proto/DCYbBJ20qDY0Jaw13nOZoA/Untitled?node-id=1%3A2
 ![image](https://user-images.githubusercontent.com/93794796/222774648-be1fe013-5344-42df-ba53-70bef28111e1.png)
+
+6)
+https://www.figma.com/proto/s8GwRqScMd1uh8vVc4vr1z/Untitled?node-id=1%3A2&scaling=contain&page-id=0%3A1
+![image](https://user-images.githubusercontent.com/93794796/222779216-aa9ea971-e25c-45fe-9f67-f975a483fbdb.png)
