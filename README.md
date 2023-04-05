@@ -2,7 +2,7 @@
 
 1)
 https://www.figma.com/proto/txo19CtCfJsA17gmcm4KzO/Untitled?node-id=1-2&scaling=min-zoom&page-id=0%3A1
-![image](https://user-images.githubusercontent.com/93794796/230198690-058d9ff4-c814-43b5-869f-8edf40daa138.png)
+![image](https://user-images.githubusercontent.com/93794796/230199795-2ba3dc36-8619-4779-bb92-3f88d14c513e.png)
 
 2)
 https://www.figma.com/proto/9PGto3S0LvDzZDnHdYyPDD/Figma-to-HTML-with-Framer-(Community)?scaling=contain&page-id=0%3A1&starting-point-node-id=9%3A59&node-id=9-59
