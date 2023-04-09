@@ -7,6 +7,9 @@ https://www.figma.com/proto/Q3pQMJmYFHFWYSBtRPg6Bm/Untitled?node-id=1-2&scaling=
 https://www.figma.com/proto/txo19CtCfJsA17gmcm4KzO/Untitled?node-id=1-2&scaling=min-zoom&page-id=0%3A1
 ![image](https://user-images.githubusercontent.com/93794796/230668199-daaaa21d-46d4-4337-b944-857ed2f1d804.png)
 
+https://www.figma.com/proto/n4csfTwSv7SUzzxk12Isxs/Untitled?node-id=1-2&scaling=contain&page-id=0%3A1
+![image](https://user-images.githubusercontent.com/93794796/230796811-4c7dd5ef-17e2-401b-8dbe-633dd6f8ba7d.png)
+
 https://www.figma.com/proto/9PGto3S0LvDzZDnHdYyPDD/Figma-to-HTML-with-Framer-(Community)?scaling=contain&page-id=0%3A1&starting-point-node-id=9%3A59&node-id=9-59
 ![image](https://user-images.githubusercontent.com/93794796/230199660-811b3cb3-7c7d-49a7-bc9d-da82279eb641.png)
 
