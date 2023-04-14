@@ -13,8 +13,8 @@ https://www.figma.com/proto/9PGto3S0LvDzZDnHdYyPDD/Figma-to-HTML-with-Framer-(Co
 ![image](https://user-images.githubusercontent.com/93794796/230199660-811b3cb3-7c7d-49a7-bc9d-da82279eb641.png)
 
 https://www.figma.com/proto/Ac2EtH37nnQrc5fTcQpwkQ/Untitled?node-id=1-2&scaling=scale-down&page-id=0%3A1
-![image](https://user-images.githubusercontent.com/93794796/232078416-9a5b74fb-4db4-4832-ae58-123d99af1fff.png)
-
+![image](https://user-images.githubusercontent.com/93794796/232146537-e00b2cc3-0c5a-4ea6-bed3-b28f9e67df7a.png)
+![image](https://user-images.githubusercontent.com/93794796/232146607-d7369044-3bf5-4bd4-828a-df92b24f14a9.png)
 
 https://www.figma.com/proto/Qa2FiXcFgg62xvlgHWdIOd/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1
 ![image](https://user-images.githubusercontent.com/93794796/221988684-bdbc2b42-92a4-45c0-ad65-effcb6643b11.png)
