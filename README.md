@@ -14,6 +14,8 @@ https://www.figma.com/proto/9PGto3S0LvDzZDnHdYyPDD/Figma-to-HTML-with-Framer-(Co
 
 https://www.figma.com/proto/Ac2EtH37nnQrc5fTcQpwkQ/Untitled?node-id=1-2&scaling=scale-down&page-id=0%3A1
 ![image](https://user-images.githubusercontent.com/93794796/232078416-9a5b74fb-4db4-4832-ae58-123d99af1fff.png)
+![image](https://user-images.githubusercontent.com/93794796/232082964-4889e963-91fe-4fb3-932f-58293b68ab09.png)
+
 
 https://www.figma.com/proto/Qa2FiXcFgg62xvlgHWdIOd/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1
 ![image](https://user-images.githubusercontent.com/93794796/221988684-bdbc2b42-92a4-45c0-ad65-effcb6643b11.png)
