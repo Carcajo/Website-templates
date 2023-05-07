@@ -1,5 +1,9 @@
 # Website-templates
 
+https://www.figma.com/file/HGE6GOo8if627SfdQMoPsi/Untitled?type=design&node-id=0-1&t=gbQfYYqGn3aqJoHf-0
+![image](https://user-images.githubusercontent.com/93794796/236681526-34612dcc-442a-413b-9480-c24eaf0be73d.png)
+![image](https://user-images.githubusercontent.com/93794796/236681545-8e4fc2b1-bf0f-4810-9bd2-51b639520aff.png)
+
 https://www.figma.com/proto/Q3pQMJmYFHFWYSBtRPg6Bm/Untitled?node-id=1-2&scaling=min-zoom&page-id=0%3A1
 ![image](https://user-images.githubusercontent.com/93794796/230795440-6f2cf520-7842-452b-bcc9-fcb69ea44613.png)
 
